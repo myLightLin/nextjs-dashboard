@@ -39,6 +39,10 @@ This project is a dashboard app built with Next.js, Tailwind CSS, and Firebase. 
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Development
+
+See [DevLog](https://github.com/myLightLin/nextjs-dashboard/issues/2)
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
