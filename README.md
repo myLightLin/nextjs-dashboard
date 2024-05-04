@@ -18,24 +18,24 @@ This project is a dashboard app built with Next.js, Tailwind CSS, and Firebase. 
 ## Installation
 
 1. Clone the repository
-  
-  ```bash
-  git clone git@github.com:myLightLin/nextjs-dashboard.git
-  ```
+
+```bash
+git clone git@github.com:myLightLin/nextjs-dashboard.git
+```
 
 2. Install dependencies
-  
-  ```bash
-  pnpm install
-  ```
+
+```bash
+pnpm install
+```
 
 3. Create a Firebase project and add your Firebase configuration to the `.env.local` file
 
 4. Run the development server
-  
-  ```bash
-  pnpm dev
-  ```
+
+```bash
+pnpm dev
+```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
